@@ -3,14 +3,15 @@ Hi!
 I’m @Jinniyah!  Pleased to meet you!
 
 🤯 Interests:
-  - Web Development,
-  - Front End Development,
-  - Software Design,
-  - Data Structures,
+  - Web Development
+  - Front End Development
+  - Software Design
+  - Data Structures
   - UX / UI 
 
 🙊 Languages:
-  - Python,
+  - Python
+  - SQL
   - C#
   - HTML / CSS / JS
   - Java
