@@ -28,7 +28,7 @@ I’m @Jinniyah!  Pleased to meet you!
 -  Udemy: JavaScript Programming: Learn by making a Mobile Game: https://www.udemy.com/certificate/UC-NZ2VF9O9/ (2017)
 
 
-Please forive the construction 🏗️.  I'm still working on getting my Github setup and adding projects to it.
+Please forgive the construction 🏗️.  I'm still working on getting my Github setup and adding projects to it.
 
 I'm interested in further developing my coding skills and would love to help out with an existing project.  I'm very good with front-end design and development.
 
