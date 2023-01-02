@@ -2,20 +2,25 @@ Hi!
 
 I’m @Jinniyah!  Pleased to meet you!
 
+&nbsp;<br>
 🤯 Interests:
+  - Software Design
   - Web Development
   - Front End Development
-  - Software Design
   - Data Structures
   - UX / UI 
 
+&nbsp;<br>
 🙊 Languages:
-  - Python
-  - SQL
-  - C#
-  - HTML / CSS / JS
-  - Java
+<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="30">
+&nbsp;&nbsp;&nbsp; <img src = "https://cdn-icons-png.flaticon.com/512/2772/2772128.png" alt="SQL" width="30">
+&nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" alt="C#" width="30">
+&nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain-wordmark.svg" alt="Java" width="30">
+&nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="30">
+&nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS" width="30">
+&nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JS" width="30">
 
+&nbsp;<br>
 🥳 Certifications:
 -  Codecademy, Learn C# course: https://www.codecademy.com/profiles/Jinniyah/certificates/65f0ff88f4fc58e0536b3b51648dff24 (2023)
 -  Coursera, Requirements Engineering: https://coursera.org/share/a8d241c95d3434c47cb6c383dbb2aff6 (2022)
