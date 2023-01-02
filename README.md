@@ -17,6 +17,7 @@ I’m @Jinniyah!  Pleased to meet you!
   - Java
 
 🥳 Certifications:
+-  Codecademy, Learn C# course: https://www.codecademy.com/profiles/Jinniyah/certificates/65f0ff88f4fc58e0536b3b51648dff24 (2023)
 -  Coursera, Requirements Engineering: https://coursera.org/share/a8d241c95d3434c47cb6c383dbb2aff6 (2022)
 -  Coursera, Web Design for Everybody: https://coursera.org/share/bb9fe9481d58c1b238f65aa39f7fd798 (2022)
 -  Coursera, Java Programming and Software Engineering Fundamentals: https://coursera.org/share/290927ade19ea98699d7f60d77b20703 (2021)
