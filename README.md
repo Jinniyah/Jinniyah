@@ -6,7 +6,8 @@ I’m Jennifer!  Pleased to meet you!
 🤯 Interests
   - Software Design
   - Web Development
-  - Front End Development
+  - Back End Development
+  - Full Stack Development
   - Data Structures
   - UX / UI 
 
@@ -19,6 +20,7 @@ I’m Jennifer!  Pleased to meet you!
 &nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="30">
 &nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS" width="30">
 &nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JS" width="30">
+&nbsp;&nbsp;&nbsp; <img src = "https://gist.github.com/Xainey/d5bde7d01dcbac51ac951810e94313aa#file-powershell-svg" alt="PS" width="30">
 
 &nbsp;<br>
 🥳 Certifications
