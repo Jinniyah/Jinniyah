@@ -20,7 +20,7 @@ I’m Jennifer!  Pleased to meet you!
 &nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" alt="HTML" width="30">
 &nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS" width="30">
 &nbsp;&nbsp;&nbsp; <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JS" width="30">
-&nbsp;&nbsp;&nbsp; <img src = ["https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powershell.svg](https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg)" alt="PS" width="30">
+&nbsp;&nbsp;&nbsp; <img src = "https://gist.githubusercontent.com/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PS" width="35">
 
 &nbsp;<br>
 🥳 Certifications
