@@ -26,6 +26,7 @@ I’m Jennifer!  Pleased to meet you!
 🥳 Certifications
 
   * For the lastest information on certifications and skills please check out my LinkedIn Account: <a href = "https://www.linkedin.com/in/jennifer-martin-74039622/details/certifications/"> Jennifer (Edwards) Martin Certification's</a>
+  * Educational focus has been on Azure, AI (Azure and AWS), back-end development, PowerShell and cybersecurity.
 
 | Source      | Certification                                                                                                                                                       | Year | Applicable Languages |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|:--------------------:|
@@ -49,7 +50,6 @@ I’m Jennifer!  Pleased to meet you!
 | Pluralsight | <a href = "https://app.pluralsight.com/learner/user/courses/v2/67ebb6b1-c279-4ef1-aa0d-0fbae6df7919/certificate">Getting Started in UX Design</a>                   | 2019 | All                  |
 | Pluralsight | <a href = "https://app.pluralsight.com/learner/user/courses/v2/bb27df0d-3580-43f7-9e9a-392b1abe497a/certificate">Clean Code: Writing Code for Humans</a>            | 2019 | All                  |
 | Pluralsight | <a href = "https://app.pluralsight.com/learner/user/courses/v2/343e3153-d230-4cb0-821f-95b00d63ce80/certificate">LOB Apps with Canvas Power Apps and Flow</a>       | 2019 | <img src = "https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png" alt="PowerApp" width="30">&nbsp;&nbsp;&nbsp;<img src = "https://summitbajracharya.com.np/wp-content/uploads/2020/10/PowerAutomate-2020-icon-1024x1024.png" alt="PowerAutomate" width="30">|
-| Dataquest   | <a href = "https://app.dataquest.io/view_cert/KS50FNHH29BTKOPYDH6L">Data Scientist in Python</a>                                                                    | 2019 | <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="30"> |
 | Udemy       | <a href = "https://www.udemy.com/certificate/UC-9I4E2290/">Python & Excel: Easily migrate spreadsheets to a database</a>                                            | 2018 | <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="30"> |
 | Udemy       | <a href = "https://www.udemy.com/certificate/UC-WDBLMEKE/">Python & Excel: File Automation with OpenPYXL</a>                                                        | 2018 | <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="30"> |
 | Udemy       | <a href = "https://www.udemy.com/certificate/UC-A4N0LE3Y/">Project Management</a>                                                                                   | 2017 | All                  |
