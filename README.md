@@ -25,7 +25,7 @@ I’m Jennifer!  Pleased to meet you!
 &nbsp;<br>
 🥳 Certifications
 
-  * For the lastest information on certifications and skills please check out my LinkedIn Account: <a href = "https://www.linkedin.com/in/jennifer-martin-74039622/details/certifications/"> Jennifer (Edwards) Martin Certification's</a>
+  * For the lastest information on certifications and skills please check out my LinkedIn Account: <a href = ""> Jennifer (Edwards) Martin</a>
   * Educational focus has been on Azure, AI (Azure and AWS), back-end development, PowerShell and cybersecurity.
 
 
